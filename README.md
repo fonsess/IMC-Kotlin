@@ -13,7 +13,7 @@ Este é um aplicativo Android desenvolvido em Kotlin que permite o cálculo do s
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/fnzz0/IMC-Kotlin
+   git clone https://github.com/fonsess/IMC-Kotlin
 
 ## Contato
 
